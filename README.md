@@ -55,6 +55,14 @@ El proyecto busca validar la capacidad para:
 
 ---
 
+## Resultados de la Prueba Técnica
+
+Este es el resultado de la ejecución del script `main.py` con los datos contenidos en el archivo `datos.xlsx`.
+
+![Resultados del Test](grafico.png)
+
+---
+
 ## Preguntas de Evaluación
 
 ### ¿Cómo diseñarías una interfaz frontend para interactuar con el script Python?
