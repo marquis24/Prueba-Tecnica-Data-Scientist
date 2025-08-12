@@ -1,9 +1,9 @@
 
 # Prueba Técnica - Data Scientist
 
-## Descripción del Proyecto
+## Descripción
 
-Este proyecto consiste en el desarrollo de un script en Python para procesar datos numéricos contenidos en un archivo Excel, realizar cálculos estadísticos y generar visualizaciones automáticas.
+Esta prueba técnica consiste en el desarrollo de un script en Python para procesar datos numéricos contenidos en un archivo Excel, realizar cálculos estadísticos y generar visualizaciones automáticas.
 
 Se busca demostrar habilidades en la limpieza y preparación de datos, consultas optimizadas, análisis exploratorio y presentación clara de resultados.
 
@@ -15,14 +15,13 @@ Se busca demostrar habilidades en la limpieza y preparación de datos, consultas
 
 ---
 
-## Archivos Incluidos
+## Archivos 
 
 | Archivo            | Descripción                                      |
 | ------------------ | ------------------------------------------------ |
 | `main.py`          | Script principal que ejecuta el procesamiento.   |
 | `datos.xlsx`       | Archivo Excel con los datos numéricos.           |
 | `requirements.txt` | Dependencias necesarias para ejecutar el script. |
-| `.venv`            | Entorno virtual para el proyecto.                |
 
 ---
 
